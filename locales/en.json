@@ -1,0 +1,59 @@
+{
+    "about.teamMembers": "Professional journey of Jhanayka",
+    "about.instructor": "I am a recent graduate of the New Jersey Institute of Technology, where I earned both my Bachelors and Masters degrees in Business and Information Systems with a specialized focus on data analysis and user experience (UX) design. My studies were complemented by coursework in systems analysis, business analytics, digital marketing, and human-centered design principles. As a data analyst, I have cultivated a strong foundation in statistical analysis, data visualization, and machine learning, enabling me to interpret complex data and translate it into actionable insights. My proficiency in UX design further empowers me to align these insights with user needs, ensuring that solutions are not only data-driven but also user-friendly. In my academic projects, I have had the opportunity to work on real-world problems, conducting in-depth analyses and designing intuitive interfaces. This hands-on experience has honed my skills in problem-solving, collaboration, and effective communication with both technical and non-technical stakeholders. I am actively seeking employment opportunities that will allow me to leverage my unique blend of analytical rigor and creative design. I am eager to contribute to a forward-thinking company where I can assist in decision-making processes by evaluating current systems and procedures, integrating business objectives with cutting-edge technology, and crafting innovative solutions. My goal is to help the organization operate more efficiently and enhance the overall user experience. By joining your team, I am confident that I can bring a fresh perspective and a committed work ethic, aligning my passion for data analysis and UX design with your company's strategic goals. Feel free to reach out to discuss how my skills and interests align with your needs.",
+    "about.developer": "Developer",
+    "transformYourTeaching": "Transform your teaching",
+    "myWebClassOffers": "Analytical data-driven professional with a passion for creating intuitive and engaging user experiences. Embracing the curiosity of a lifelong learner and the imagination of a visionary designer, I have cultivated a unique blend of data analysis precision and UX design creativity. My career as a Data Analyst & UX Designer is driven by an enthusiasm for uncovering truths hidden within data and a genuine passion for crafting user experiences that resonate, engage, and inspire. With an analytical mindset that thrives on facts and a creative soul that longs for innovation, I seek opportunities that will allow me to combine these strengths to add unique value and make a meaningful difference. ",
+    "courses": "Projects",
+    "signUpForOurNewsletter": "Get my resume by subscribing below",
+    "enterYourEmail": "Type your email address",
+    "signUp": "Subscribe",
+    "contactUs": "Subscribe to my newsletter",
+    "name": "Name:",
+    "email": "Email:",
+    "note": "Comments:",
+    "writeYourNote": "Leave your comments here...",
+    "subscribe": "Submit",
+    "success": "Completed!",
+    "sending": "processing...",
+    "close": "Exit this out",
+    "emailError": "Please type a valid Email!",
+    "title": "Jhanayka | Privacy Policy",
+    "titleAbout": "Jhanayka | About Me",
+    "heading": "Guidelines for Privacy and Cookie Use",
+    "intro": "Your privacy matters to me. This policy outlines the types of personal information collected by this website, how I utilize it, and with whom I share it.",
+    "infoHeading": "Data I collect:",
+    "infoList": [
+      "Your name",
+      "Email address you submit",
+      "Details pertaining to your device, including the IP address, operating system and browser type."
+    ],
+    "useHeading": "Use of that information",
+    "useList": [
+      "In adherence to legal regulations",
+      "For enhancing the user experience",
+      "To refine the website and services using analytics",
+      "In fulfillment of legal responsibilities",
+      "To tailor content and advertising to individual preferences"
+    ],
+    "shareHeading": "Information Dissemination",
+    "shareInfo": "I refrain from selling, renting, or trading your personal information with outside entities. Nevertheless, your personal details may be shared with third-party service providers who aid me in analytics, allowing me to enhance my products and services.",
+    "securityHeading": "Protocols of Security",
+    "securityInfo": "I employ appropriate safeguards to defend your personal information against unauthorized access, use, or sharing. Yet, I must acknowledge that I cannot assure total security for your information, since no method of online transmission can be guaranteed to be completely secure.",
+    "accessibilityHeading": "Guidelines for Accessibility",
+    "accessibilityInfo": "Our goal is to create a website that is inclusive and accessible to all, especially individuals with disabilities.",
+    "analyticsHeading": "Web Analytics",
+    "analyticsInfo": "I utilize Google Analytics to track your usage of my website, monitoring aspects such as visit frequency, the pages accessed, and the preceding sites visited before landing on my website. The information captured, such as the IP address assigned to you on the day of your visit (excluding personal identifiers like your name), is employed to refine my website and enhance the user experience. The data from Google Analytics is isolated and never merged with personal identification details. Google Analytics also employs a persistent cookie in your browser, allowing it to identify you as a specific user upon future visits to my site.",
+    "dataRetentionHeading": "Security and Preservation of Data",
+    "dataRetentionInfo": "I keep the data gathered just as long as it's necessary to fulfill the intended purposes, unless the law requires a more extended retention period. I actively employ reasonable safeguards to protect this information from being lost, stolen, misused, accessed without authorization, disclosed, altered, or destroyed.",
+    "rightsHeading": "What your rights and priviledges are",
+    "rightsInfo": "Users may seek insight into their personal information that the website keeps, including knowledge of what data is being gathered, its usage, and its sharing partners. If data is found to the wrong, users can ask for it to be corrected. Users can also request the removal of their data from this website's database despite this may be subject to limitations in particular situations.",
+    "changesHeading": "Changes to This Policy",
+    "changesInfo": "This Privacy Policy may be updated from time to time. Any changes will be communicated to you by posting the revised Privacy Policy on this page. We urge that you examine our Privacy Policy on a regular basis for changes.",
+    "contactHeading": "Reach me out for any questions",
+    "contactInfo": "Please email me at abc@emaildomain.com if you want to discuss anything regarding this Guidelines for Privacy and Cookie Use ."
+  }
+  
+  
+  
+  
