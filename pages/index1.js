@@ -12,6 +12,11 @@ import indexStyles from '../styles/index.module.css'
 import MailchimpFormContainer from '../components/Mailchimp'
 import styles from '../styles/contact.module.css'
 import { useRouter } from 'next/router';
+import i18n from 'i18next'
+import translaionEs from "../locales/es.json"
+import translaionFr from "../locales/fr.json"
+import translaionEn from "../locales/en.json"
+import {initReactI18next, useTranslation} from "react-i18next"
 
 
 library.add(faNewspaper);
