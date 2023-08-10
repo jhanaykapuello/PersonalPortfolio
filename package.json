@@ -20,7 +20,7 @@
     "glob": "^9.3.2",
     "gray-matter": "^4.0.3",
     "i18next": "^22.4.15",
-    "mailchimp": "^1.2.1",
+    "mailchimp": "^0.2.0",
     "mailchimp-api-v3": "^1.15.0",
     "next": "latest",
     "react": "18.2.0",
