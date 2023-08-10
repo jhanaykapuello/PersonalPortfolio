@@ -44,5 +44,15 @@
     "playwright": "^1.32.1",
     "playwright-lighthouse": "^3.0.0",
     "util": "^0.12.5"
-  }
+  },
+  "name": "personalportfolio",
+  "description": "",
+  "version": "1.0.0",
+  "main": "playwright.config.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "author": "",
+  "license": "ISC"
 }
