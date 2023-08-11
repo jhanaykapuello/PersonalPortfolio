@@ -1,4 +1,4 @@
-name: Run Playwright and Generate a video, screenshots, and LightHouse HTML Report
+name: Run Playwright Tests
 on:
   push:
     branches: "*"
