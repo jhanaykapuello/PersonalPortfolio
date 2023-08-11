@@ -11,6 +11,7 @@ export default function Blogs({ allPostsData }) {
   return (
       <Layout home>
         <Head>
+          
             <title>Jhanayka | Projects</title>
         </Head>
         <main className={styles.container}>

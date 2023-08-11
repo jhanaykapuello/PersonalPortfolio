@@ -23,7 +23,7 @@ const Courses = () => {
   return (
     <Layout home>
         <Head>
-            <title>MyWebClass.org | Courses</title>
+            <title>Personal Potfolio | Courses</title>
         </Head>
         <section className={utilStyles.headingMd}>
         <div>
