@@ -148,7 +148,7 @@ const CustomForm = ({ status, message, onValidated }) => {
 };
 
 const MailchimpFormContainer = () => {
-    const postUrl = `https://njit.us21.list-manage.com/subscribe/post?u=28c23b99aef2e240dffb0ae62&amp;id=8b4facee51&amp;f_id=0014d8e6f0`;
+    const postUrl = `https://gmail.us21.list-manage.com/subscribe/post?u=9b5fbd3373256aee04bab8cde&amp;id=ae61499e95&amp;f_id=006b63e1f0`;
     return (
         <div>
             <MailchimpSubscribe
