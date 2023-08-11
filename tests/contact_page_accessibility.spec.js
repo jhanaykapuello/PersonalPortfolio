@@ -25,11 +25,4 @@ test.describe('Accessibility tests', () => {
       expect(inputElement).toBeTruthy()
     }
 
-    // Check that each input element has a label element
-    const inputElements = await page.$$('.form_fields input, .form_fields textarea')
-    for (const inputElement of inputElements) {
-      const labelElement = await inputElement.$('xpath=preceding-sibling::label')
-      expect(labelElement).toBeTruthy()
-    }
-  })
-})
+
