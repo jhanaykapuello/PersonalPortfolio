@@ -2,6 +2,8 @@
 
 link to the live website: https://personal-portfolio-c4xj.vercel.app/
 
+Link to the Figma design: https://www.figma.com/file/hC9zbOH4phXVi4Lgv5MwOB/Project-Portfolio?type=design&node-id=14%3A1907&mode=design&t=5OrZvS3Udt8Y15vg-1 
+
 link to the video: 
 
 ## **Building Upon Foundations**
