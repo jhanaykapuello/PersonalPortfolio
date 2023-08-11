@@ -15,4 +15,24 @@ test.describe('Accessibility tests', () => {
     await page.close()
   })
 
+ test('Check form labels and inputs', async () => {
+    // Check that each label element has a corresponding input element
+    const labelElements = await page.$$('.form_fields label')
+    for (const labelElement of labelElements) {
+      const inputId = await labelElement.getAttribute('for')
+      expect(inputId).toBeTruthy()
+      const inputElement = await page.$(`#${inputId}`)
+      expect(inputElement).toBeTruthy()
+    }
+
+
+    // Check that each input element has a label element
+    const inputElements = await page.$$('.form_fields input, .form_fields textarea')
+    for (const inputElement of inputElements) {
+      const labelElement = await inputElement.$('xpath=preceding-sibling::label')
+      expect(labelElement).toBeTruthy()
+    }
+  })
+})
+
 
