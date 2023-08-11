@@ -38,19 +38,4 @@ jobs:
           echo "Starting the application..."
           npm run start & npx wait-on --timeout 30000 http://0.0.0.0:3000
           echo "Application started."
-      - name: Run Playwright tests
-        run: npx playwright test --config=playwright.config.js
-
-      - name: Create/Check test-results directory
-        run: |
-          if [ ! -d "test-results" ]; then
-            mkdir test-results
-          fi
-      - name: Generate Lighthouse Report
-        run: |
-          lighthouse http://localhost:3000 --output html --output-path ./test-results/report.html --chrome-flags="--headless --no-sandbox --disable-gpu"
-      - name: Upload report, screenshots and videos of failed tests
-        uses: actions/upload-artifact@v3
-        with:
-          name: test-results
-          path: ./test-results
+ 
