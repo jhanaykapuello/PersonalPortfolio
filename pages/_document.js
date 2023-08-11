@@ -3,7 +3,7 @@ import Document, { Html, Head, Main, NextScript } from 'next/document';
 
 
 
-const gtag = "https://www.googletagmanager.com/gtag/js?id=G-EBW4CPCF5C";
+const gtag = "https://www.googletagmanager.com/gtag/js?id=G-J3L6XCV21L";
 
 
 export default class MyDocument extends Document {
